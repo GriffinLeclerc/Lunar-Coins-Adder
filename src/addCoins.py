@@ -20,7 +20,7 @@ for filename in os.listdir(path):
     fullname = os.path.join(path, filename)
     tree = ET.parse(fullname)
 
-    # Add the desired amount of coins to teh existing coin total
+    # Add the desired amount of coins to the existing coin total
     coinsNode = tree.getroot().find("coins")
     coins = int(coinsNode.text)
     coins += int(sys.argv[1])

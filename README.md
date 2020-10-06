@@ -9,7 +9,7 @@ This software will add the specified number of lunar coins to all user profiles.
 Double click on `addCoins.bat`
 
 This will automatically add 100 coins to each user profile.
-If an alternate number of coins are desired, simply edit the `numberOfCoins` in the file.
+If an alternate number of coins are desired, simply edit the `numberOfCoins` in the `addCoins.bat` file.
 
 ### Linux
 
