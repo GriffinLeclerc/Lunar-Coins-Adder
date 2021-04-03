@@ -17,7 +17,7 @@ If an alternate number of coins are desired, simply edit the `numberOfCoins` in 
 
 Where `number of coins` is the number of coins that will be added to each user profile.
 
-## Required Packages
+## Required Software
 
 1. [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/)
 2. [Python3](https://www.python.org/downloads/)
